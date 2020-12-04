@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4944211450785884448
+  m_GuidHigh: 1823588900380023937
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5716910245001641848
+      m_GuidHigh: 4473624672831370883
+    m_SerializedTextureGuid:
+      m_GuidLow: 5108331190334362990
+      m_GuidHigh: 1973275348610736712
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "\u30C6\u30B9\u30C8.ARMAP"
+    m_Texture: {fileID: 2800000, guid: 0aed956e702746e44862fa85797b621b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5427111732829244485
+      m_GuidHigh: 16392276455120367255
+    m_SerializedTextureGuid:
+      m_GuidLow: 9904622667050156143
+      m_GuidHigh: 5437279238674311659
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "\u30C6\u30B9\u30C82.ARMAP"
+    m_Texture: {fileID: 2800000, guid: b7ce806f49d68974ebe9c9dda818754b, type: 3}
